@@ -1,0 +1,10 @@
+\begin{tabular}{lllrlll}
+\toprule
+{} &  Sex & ChestPainType &  FastingBS & RestingECG & ExerciseAngina & ST\_Slope \\
+\midrule
+count  &  734 &           734 &        734 &        734 &            734 &      734 \\
+unique &    2 &             4 &          2 &          3 &              2 &        3 \\
+top    &    M &           ASY &          0 &     Normal &              N &     Flat \\
+freq   &  573 &           381 &        563 &        440 &            439 &      364 \\
+\bottomrule
+\end{tabular}
