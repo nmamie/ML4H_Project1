@@ -1,10 +1,10 @@
 # ML for Healthcare Project 1 Task 1: Coronary Heart Disease
 
 ## Description
-This project was created for the course Machine Learning for Health Care 2023. We train ML models (LASSO, tree, MLP, NAM) for early detection of potential coronary heart diseases. We used the public [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) dataset from Kaggle. Through the model's inherent interpretability or post processing methods used for explainability, we try to give insight into how the models made their predictions/what features were important. This is important to build trust between clinicians and models, so that they can be used in practice.
+We train ML models (LASSO, tree, MLP, NAM) for early detection of potential coronary heart diseases. We used the public [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) dataset from Kaggle. Through the model's inherent interpretability or post processing methods used for explainability, we try to give insight into how the models made their predictions/what features were important. This is important to build trust between clinicians and models, so that they can be used in practice.
 
 ## Installation
-You can simply install the package through [pip](https://pypi.org/project/pip/):
+You can simply install the dependencies through [pip](https://pypi.org/project/pip/):
 
 ```
 cd heart_failure
