@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Running Code
 
-Our code is stored in a jupyter notebook, so make sure you have the required setup to run such notebooks. We provide outputs already, so you don't have to train the models anew. However if you decide to do so run all cells to ensure reproducibility of the results. Jupyter provides an option for that at the top.
+Our code is stored in `ML4H_Project1_Task1.ipynb`, so make sure you have the required setup to run such notebooks. We provide outputs already, so you don't have to train the models anew. However if you decide to do so run all cells to ensure reproducibility of the results. Jupyter provides an option for that at the top of the notebook.
 
 `Run All`
 
